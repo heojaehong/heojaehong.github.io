@@ -10,6 +10,8 @@
 
 본문1
 
+<!-- truncate -->
+
 안녕하세요.
 
 Hello, world!
